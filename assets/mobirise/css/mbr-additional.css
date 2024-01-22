@@ -847,14 +847,6 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tVQT9OWWn9 .container-fluid {
-  padding: 0 64px;
-}
-@media (max-width: 992px) {
-  .cid-tVQT9OWWn9 .container-fluid {
-    padding: 0 24px;
-  }
-}
 @media (max-width: 992px) {
   .cid-tVQT9OWWn9 .container {
     padding: 0 24px;
@@ -918,14 +910,6 @@ a {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
-}
-.cid-tVQTd6h3XK .container-fluid {
-  padding: 0 64px;
-}
-@media (max-width: 992px) {
-  .cid-tVQTd6h3XK .container-fluid {
-    padding: 0 24px;
-  }
 }
 @media (max-width: 992px) {
   .cid-tVQTd6h3XK .container {
@@ -1099,6 +1083,8 @@ a {
   color: #141414;
 }
 .cid-tVQT4gv7cT {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   overflow: hidden;
   position: relative;
   background-image: url("../../../assets/images/czapka-zimowa-dzianinowa-z-pomponem-i-perelkami-szara-cz36wz2-photoroom-3-photoroom-1-800x800.webp");
@@ -1126,14 +1112,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-}
-.cid-tVQT4gv7cT .container-fluid {
-  padding: 0 64px;
-}
-@media (max-width: 992px) {
-  .cid-tVQT4gv7cT .container-fluid {
-    padding: 0 24px;
-  }
 }
 @media (max-width: 992px) {
   .cid-tVQT4gv7cT .container {
@@ -1226,14 +1204,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-}
-.cid-tVQT98AzTa .container-fluid {
-  padding: 0 64px;
-}
-@media (max-width: 992px) {
-  .cid-tVQT98AzTa .container-fluid {
-    padding: 0 24px;
-  }
 }
 @media (max-width: 992px) {
   .cid-tVQT98AzTa .container {
@@ -1442,14 +1412,6 @@ a {
   overflow: hidden;
   background-color: #ffffff;
 }
-.cid-tVQTdP2u5X .container-fluid {
-  padding: 0 0 0 64px;
-}
-@media (max-width: 768px) {
-  .cid-tVQTdP2u5X .container-fluid {
-    padding: 0 24px;
-  }
-}
 @media (max-width: 992px) {
   .cid-tVQTdP2u5X .container {
     padding: 0 24px;
@@ -1620,14 +1582,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-}
-.cid-tVQTb5gsgm .container-fluid {
-  padding: 0 64px;
-}
-@media (max-width: 992px) {
-  .cid-tVQTb5gsgm .container-fluid {
-    padding: 0 24px;
-  }
 }
 @media (max-width: 992px) {
   .cid-tVQTb5gsgm .container {
